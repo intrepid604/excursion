@@ -10,9 +10,32 @@ h1 {
   font-weight: normal;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  font-family: verdana;
+  color: #fff;
+}
+
+h3 {
+  font-size: 21px;
+  font-family: verdana;
+  color: gray;
+  font-weight: 300;
+}
 
 .cta {
   font-size: 16px;
   color: aquamarine;
   font-family: verdana;
+}
+
+.clear {
+  clear:both;
+}
+
+#copyright {
+  font-family: verdana;
+  color: gray;
+  text-align: right;
 }
